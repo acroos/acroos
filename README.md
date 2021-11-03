@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Austin
-### 📫 acroos@hey.com
+### 📫 roos.austin@gmail.com
 
 <!---
 acroos/acroos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
